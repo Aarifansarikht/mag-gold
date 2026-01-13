@@ -1,0 +1,7 @@
+{
+  "name": "MAG-trade",
+  "description": "Premium industrial manufacturing and trading corporate website for MAG General Trading (Qatar) and DMAG Trading (UAE), specializing in drainage solutions and steel fabrication.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
