@@ -88,7 +88,7 @@ export const Hero: React.FC = () => {
         ))}
       </div>
 
-      {/* Nav Controls */}
+     
       <div className="absolute bottom-12 right-12 z-30 flex items-center space-x-1">
         <button onClick={handlePrev} className="p-6 glass-premium rounded-sm text-white/30 hover:text-brand-gold hover:border-brand-gold/40 transition-all">
           <ChevronLeft size={24} />
